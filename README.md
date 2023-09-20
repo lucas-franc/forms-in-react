@@ -16,32 +16,32 @@ To begin testing the various form elements, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-   ```git clone https://github.com/your-username/forms-in-react.git
-
+   ```
+   git clone https://github.com/your-username/forms-in-react.git
    ```
 
 2. Navigate to the project directory
 
-   ```cd forms-in-react
-
+   ```
+   cd forms-in-react
    ```
 
 3. Choose the component
 
-   ```cd checkbox
-
+   ```
+   cd checkbox
    ```
 
 4. Install the dependencies
 
-   ```npm install
-
+   ```
+   npm install
    ```
 
 5. Run the project
 
-   ```npm run dev
-
+   ```
+   npm run dev
    ```
 
 6. Open your web browser and visit http://localhost:3000 to view and interact with the forms.
