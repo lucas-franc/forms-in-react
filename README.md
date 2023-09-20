@@ -7,7 +7,6 @@ Welcome to the Forms in React Repository! This repository is dedicated to testin
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
