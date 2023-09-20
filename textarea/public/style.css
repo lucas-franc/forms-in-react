@@ -1,0 +1,35 @@
+input[type="text"],
+input[type="password"],
+input[type="email"], 
+textarea{
+  display: block;
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: 4px;
+  background: #eee;
+  transition: 0.2s;
+  margin-bottom: 1rem;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus, 
+textarea:focus {
+  outline: none;
+  border-color: cadetblue;
+  background: white;
+  box-shadow: 0 0 0 1px cyan;
+}
+
+button {
+  border: none;
+  font-size: 1rem;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  background: cadetblue;
+}
+
+button:hover{
+  background: cyan;
+}
