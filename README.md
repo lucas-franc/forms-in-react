@@ -46,7 +46,8 @@ To begin testing the various form elements, follow these steps:
 
 6. Open your web browser and visit http://localhost:3000 to view and interact with the forms.
 
-##$Project Structure
+## Project Structure
+
 The repository contains the following form element folders:
 
 - checkbox: Demonstrates a checkbox component.
@@ -57,8 +58,10 @@ The repository contains the following form element folders:
 
 Each folder contains its own components, styles, and tests specific to the respective form element.
 
-##Usage
+## Usage
+
 Explore each form element independently to test and interact with different types of form components. You can navigate between the form element folders and access the respective components.
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
